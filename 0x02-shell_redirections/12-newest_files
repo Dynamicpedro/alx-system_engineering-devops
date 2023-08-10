@@ -1,2 +1,2 @@
-#!/bin/bzsh
+#!/bin/bash
 ls -t | head 
